@@ -1,0 +1,1 @@
+Joirney of Pytorch basic functions concepts
